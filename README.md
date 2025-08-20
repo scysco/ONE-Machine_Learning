@@ -12,14 +12,14 @@ Cada notebook representa un paso adelante en el estudio del Machine Learning. Pu
 
 | \# | Tema | Link |
 |---|---|---|
-| 1 | **Estadística con Python: Frecuencias y Medidas** | [📖 Abrir en Colab](https://www.google.com/search?q=%5Bhttps://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/01_Estad%25C3%25ADstica_con_Python_1.ipynb%5D\(https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/01_Estad%25C3%25ADstica_con_Python_1.ipynb\)) |
-| 2 | **Estadística con Python: Probabilidad y Muestreo** | [📖 Abrir en Colab](https://www.google.com/search?q=https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/02_Estad%25C3%25ADstica_con_Python_2.ipynb) |
-| 3 | **Proyecto Final: Estadística Aplicada** | [📖 Abrir en Colab](https://www.google.com/search?q=https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/03_Proyecto_final_Estadistica.ipynb) |
-| 4 | **Regresión Lineal: Predicción de Precios** | [📖 Abrir en Colab](https://www.google.com/search?q=https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/04_Data_Science_regresion_lineal.ipynb) |
-| 5 | **Regresión Lineal: Técnicas Avanzadas y Métricas** | [📖 Abrir en Colab](https://www.google.com/search?q=https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/05_Data_Science_regresion_Lineal_II.ipynb) |
-| 6 | **Clasificación: Primeros Pasos en Machine Learning** | [📖 Abrir en Colab](https://www.google.com/search?q=https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/06_Clasificacion_primeros_pasos_ML.ipynb) |
-| 7 | **Clasificación: Validación de Modelos y Métricas** | [📖 Abrir en Colab](https://www.google.com/search?q=https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/07_Clasificacion_validacion_y_metricas.ipynb) |
-| 8 | **IA Aumentada: Optimización Aeroportuaria** | [📖 Abrir en Colab](https://www.google.com/search?q=https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/08_IA_Aumentada_optimizaci%25C3%25B3n_aeroportuaria.ipynb) |
+| 1 | **Estadística con Python: Frecuencias y Medidas** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/01_Estad%25C3%25ADstica_con_Python_1.ipynb%5D\(https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/01_Estad%25C3%25ADstica_con_Python_1.ipynb\)) |
+| 2 | **Estadística con Python: Probabilidad y Muestreo** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/02_Estad%25C3%25ADstica_con_Python_2.ipynb) |
+| 3 | **Proyecto Final: Estadística Aplicada** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/03_Proyecto_final_Estadistica.ipynb) |
+| 4 | **Regresión Lineal: Predicción de Precios** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/04_Data_Science_regresion_lineal.ipynb) |
+| 5 | **Regresión Lineal: Técnicas Avanzadas y Métricas** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/05_Data_Science_regresion_Lineal_II.ipynb) |
+| 6 | **Clasificación: Primeros Pasos en Machine Learning** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/06_Clasificacion_primeros_pasos_ML.ipynb) |
+| 7 | **Clasificación: Validación de Modelos y Métricas** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/07_Clasificacion_validacion_y_metricas.ipynb) |
+| 8 | **IA Aumentada: Optimización Aeroportuaria** | [📖 Abrir en Colab](https://colab.research.google.com/github/scysco/ONE-Machine_Learning/blob/main/08_IA_Aumentada_optimizaci%25C3%25B3n_aeroportuaria.ipynb) |
 
 ## 💻 Tecnologías Utilizadas
 
